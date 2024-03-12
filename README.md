@@ -6,7 +6,7 @@ about 30 minutes to make, but it's pretty fun to mess around with different imag
 The code in this repository uses Gudetama as an example!
 
 ### Before
-![Normal Gudetama]('./gudetama.jpeg')
+![Normal Gudetama]('gudetama.jpeg')
 
 ### After
-![ASCII Gudetama]('./gudetama-ascii.jpg')
+![ASCII Gudetama]('gudetama-ascii.jpg')
